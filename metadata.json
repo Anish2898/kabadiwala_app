@@ -1,0 +1,6 @@
+{
+  "name": "EcoPickup - Doorstep Recycling & Rewards",
+  "description": "On-demand doorstep recycling collection and rewards platform with AI waste scanning, instant cash rewards, live collector tracking, and regional languages.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
